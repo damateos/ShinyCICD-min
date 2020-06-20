@@ -64,7 +64,7 @@ golem::add_module(name = "faithful_histogram")
 ## Code coverage ----
 ## (You'll need GitHub there)
 # usethis::use_github()
-# usethis::use_travis()
+usethis::use_travis()
 # usethis::use_appveyor()
 
 ## Release ----
